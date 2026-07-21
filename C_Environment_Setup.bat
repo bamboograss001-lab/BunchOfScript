@@ -7,7 +7,7 @@ REM>Exit /B 2>NUL & GOTO :START
 ::! @details    This batch script handles setting up environment, downloading notes, removing unnecessary files and folder0 and running test.
 ::!
 ::! @author     Bamboo Grass
-::! @version    3.2.0
+::! @version    2.5.0
 ::! @date       2026-07-21
 ::! @copyright  (c) 2026 Bamboo Code. All rights reserved.
 :: ============================================================================
